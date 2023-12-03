@@ -10,10 +10,6 @@ Clone this repo and open folder in vscode then run :
 
 
 
-## Documentation
-
-[Documentation](https://documenter.getpostman.com/view/25345048/2s93m344Pz#intro)
-
 ## Screenshots
 
 ![HOME](./public/images/api%201.png)
